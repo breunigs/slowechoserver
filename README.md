@@ -19,3 +19,5 @@ the `nginx.conf` and rebuild.
 ## Running the image
 
 Use `make build` to build a docker image (called `slowechoserver`) or run it directly with `make run`. By default it listens on `8080`.
+
+Alternatively, you can find the image on on Docker Hub: https://hub.docker.com/r/breunigs/slowechoserver/
